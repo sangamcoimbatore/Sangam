@@ -27,6 +27,9 @@ import com.example.sangam.R;
 import com.example.sangam.ui.login.LoginViewModel;
 import com.example.sangam.ui.login.LoginViewModelFactory;
 import com.example.sangam.ui.web.WebActivity;
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -34,6 +37,8 @@ public class LoginActivity extends AppCompatActivity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+        AppCenter.start(getApplication(), "448553f8-02a1-48e2-b0de-5db78fc79231",
+                Analytics.class, Crashes.class);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         loginViewModel = ViewModelProviders.of(this, new LoginViewModelFactory())
