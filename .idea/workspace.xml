@@ -9,7 +9,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc1df76a-7f96-4986-9cd7-a6610608226a" name="Default Changelist" comment="c" />
+    <list default="true" id="fc1df76a-7f96-4986-9cd7-a6610608226a" name="Default Changelist" comment="c">
+      <change afterPath="$PROJECT_DIR$/app/debug/app-debug.aab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/app-release.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +33,12 @@
       </state>
     </system>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\Balaji\Documents\Sangam Coimbatore\upload.jks" />
+    <option name="KEY_ALIAS" value="upload" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,6 +53,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Balaji\AndroidStudioProjects\Sangam\app" />
+    <property name="ExportApk.BuildVariants" value="debug&#10;release" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -142,18 +156,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3940" y="275" key="FileChooserDialogImpl" timestamp="1591499479169">
+    <state x="3940" y="275" key="FileChooserDialogImpl" timestamp="1591505900330">
       <screen x="3200" y="0" width="1920" height="1040" />
     </state>
-    <state x="3940" y="275" key="FileChooserDialogImpl/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591499479169" />
+    <state x="3940" y="275" key="FileChooserDialogImpl/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591505900330" />
     <state x="3596" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1591502016820">
       <screen x="3200" y="0" width="1920" height="1040" />
     </state>
     <state x="3596" y="500" key="com.intellij.ide.util.TipDialog/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591502016820" />
-    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591502144917">
+    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591505660876">
       <screen x="3200" y="0" width="1920" height="1040" />
     </state>
-    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591502144917" />
+    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591505660876" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
