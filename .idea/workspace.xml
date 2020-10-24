@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1df76a-7f96-4986-9cd7-a6610608226a" name="Default Changelist" comment="c">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,22 +159,15 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Updates/0.0.1600.860@0.0.1600.860" timestamp="1598079766342" />
-    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591518859470">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="3840" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603503989345">
+      <screen x="3200" y="0" width="1920" height="1040" />
     </state>
-    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/3200.0.1920.1040@0.0.1600.860" timestamp="1591518859470" />
-    <state x="533" y="205" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598078712495">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="3840" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1592616730802" />
+    <state x="3840" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/3200.0.1920.1040@3200.0.1920.1040" timestamp="1603503989345" />
     <state x="533" y="205" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1598078712495" />
-    <state x="3940" y="275" key="FileChooserDialogImpl" timestamp="1591505900330">
+    <state x="3596" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1603503961000">
       <screen x="3200" y="0" width="1920" height="1040" />
     </state>
-    <state x="3940" y="275" key="FileChooserDialogImpl/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591505900330" />
-    <state x="3596" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1598949389619">
-      <screen x="3200" y="0" width="1920" height="1040" />
-    </state>
+    <state x="3596" y="500" key="com.intellij.ide.util.TipDialog/0.0.1280.680/3200.0.1920.1040@3200.0.1920.1040" timestamp="1603503961000" />
     <state x="330" y="413" key="com.intellij.ide.util.TipDialog/0.0.1600.860/3200.0.1920.1040@0.0.1600.860" timestamp="1598143384575" />
     <state x="3596" y="500" key="com.intellij.ide.util.TipDialog/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1598949389619" />
     <state x="330" y="413" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1598078641153" />
@@ -183,10 +175,6 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="608" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1598073040463" />
-    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591516275113">
-      <screen x="3200" y="0" width="1920" height="1040" />
-    </state>
-    <state x="3823" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/3200.0.1920.1040@3200.0.1920.1040" timestamp="1591516275113" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
